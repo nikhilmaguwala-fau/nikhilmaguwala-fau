@@ -7,10 +7,11 @@
 
 ## I'm a  Computer Engineer!!
 
-- 🌱 Software Developer at Abaut GmbH, Munich, Germany. (Mainly working with Angular, Python, Docker and Jenkins).
-- 🌱 Currently Studying Data Science at FAU Erlangen-Nürnberg...!
-- 🌱 I was Software Developer at Lanet Team Software Solutions Pvt. Ltd.
-- 🌱 Studied Computer Engineering from Gujarat Technological University, India.
+- 🌱 Coding Instructor at [4Geeks Academy](https://4geeksacademy.com/us/index).
+- 🌱 Software Developer at [Abaut GmbH](https://www.abaut.de/), Munich, Germany. (Mainly working with Angular, Python, Docker, and Jenkins).
+- 🌱 Currently Studying Data Science at [FAU Erlangen-Nürnberg](https://www.fau.de/)...!
+- 🌱 I was Software Developer at [Lanet Team Software Solutions Pvt. Ltd] (https://lanetteam.com/).
+- 🌱 Studied Computer Engineering from [Gujarat Technological University] (https://www.gtu.ac.in/), India.
 
 <h3>Things I code with</h3>
 <p>
@@ -115,7 +116,7 @@
 </details>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=nikhilmaguwala&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nikhilmaguwala-fau&amp;show_icons=true" alt="GitHub Stats"></p>
 
 [website]: https://nikhilmaguwala.github.io/
 [instagram]: https://www.instagram.com/nikhil_maguwala/
